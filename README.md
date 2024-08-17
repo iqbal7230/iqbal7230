@@ -1,42 +1,57 @@
-# 💻 Iqbal Ansari
+<h1 align="center">Hi 👋, I'm Iqbal Ansari</h1>
+<h3 align="center">Full-Stack Developer | Data Science Enthusiast | Problem Solver</h3>
 
-**`Full-Stack Developer | Data Science Enthusiast`**
-
-I'm a passionate full-stack developer and data science enthusiast currently pursuing a Bachelor's degree in Computer Science with a specialization in Data Science and Big Data. My skill set ranges from building dynamic web applications using modern technologies like React and Node.js to analyzing data using Python and machine learning libraries. I enjoy solving complex problems and constantly learning new things.
-
----
-
-### 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iqbal7230&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal7230" />
+  <img src="https://img.shields.io/github/followers/iqbal7230?label=Follow&style=social" alt="iqbal7230" />
+</p>
 
 ---
 
-### 📚 Notable Projects
+### ✨ About Me
 
-- **[💸 Fintech Website](https://github.com/iqbal7230/Paytm.git)**: A web application similar to Paytm with wallet functionality, transaction history, and user authentication.
-- **[📝 To-Do App](https://github.com/iqbal7230/Todo-App.git)**: A full-stack web app for task management with features like adding, editing, marking done, and deleting tasks.
-- **[📊 Student Performance Analysis](https://github.com/iqbal7230):** A machine learning project that analyzes student scores based on various factors.
-- **[🔍 Deceptive Eye Extension](https://github.com/iqbal7230/DeceptiveEye-DPBH-2K23.git)**: A browser extension that detects and highlights dark patterns in e-commerce websites.
-- **[🧠 DeprAI - AI Mental Health Bot](https://github.com/iqbal7230/Deprai-mental-support-bot.git)**: An AI-powered mental health support bot using NLP and IBM Watson.
+- 🔭 I’m currently working on **full-stack web projects and AI-driven applications.**
+- 🌱 I’m continuously learning and exploring **data science, machine learning, and cloud technologies.**
+- 💬 Ask me about **React, Node.js, Python, and data analysis.**
+- ⚡ Fun fact: I’m a hackathon enthusiast and love solving complex coding challenges.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/iqbal7230/Paytm.git"><img src="https://img.shields.io/badge/-💸%20Fintech%20Website-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/iqbal7230/Todo-App.git"><img src="https://img.shields.io/badge/-📝%20To--Do%20App-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/iqbal7230"><img src="https://img.shields.io/badge/-📊%20Student%20Performance%20Analysis-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/iqbal7230/DeceptiveEye-DPBH-2K23.git"><img src="https://img.shields.io/badge/-🔍%20Deceptive%20Eye%20Extension-0e75b6?style=for-the-badge" /></a>
+  <a href="https://github.com/iqbal7230/Deprai-mental-support-bot.git"><img src="https://img.shields.io/badge/-🧠%20DeprAI%20Mental%20Health%20Bot-0e75b6?style=for-the-badge" /></a>
+</p>
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 Winner at IILM University Hackathon
-- 🌍 Participated in Global Hackathons (Neuphony, IIT BHU)
-- ⭐ 5-Star Ratings in Python and Java on HackerRank
+- 🥇 **Winner at IILM University Hackathon**
+- 🌍 **Participated in Global Hackathons (Neuphony, IIT BHU)**
+- ⭐ **5-Star Ratings in Python and Java on HackerRank**
 
 ---
 
@@ -48,12 +63,22 @@ I'm a passionate full-stack developer and data science enthusiast currently purs
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-ansari-53406a253/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbal7230)
+<p align="center">
+  <a href="https://www.linkedin.com/in/iqbal-ansari-53406a253/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/iqbal7230"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-**“Continuous learning and collaboration are the keys to success.”**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbal7230&show_icons=true&theme=radical" alt="iqbal7230" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbal7230&theme=radical" alt="iqbal7230" />
+</p>
 
+---
+
+<p align="center">
+  “Continuous learning and collaboration are the keys to success.”
+</p>
