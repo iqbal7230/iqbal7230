@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal Ansari</h1>
-<h3 align="center">Full-Stack Developer | Data Science Enthusiast | Problem Solver</h3>
+<h3 align="center">MERN Stack Developer | Data Science Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iqbal7230&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal7230" />
@@ -10,7 +10,7 @@
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on **full-stack web projects and AI-driven applications.**
+- 🔭 I’m currently working on **MERN-stack web projects and AI-driven applications.**
 - 🌱 I’m continuously learning and exploring **data science, machine learning, and cloud technologies.**
 - 💬 Ask me about **React, Node.js, Python, and data analysis.**
 - ⚡ Fun fact: I’m a hackathon enthusiast and love solving complex coding challenges.
