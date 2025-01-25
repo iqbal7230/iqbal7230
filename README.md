@@ -56,6 +56,7 @@
 
 ### 🏆 Achievements
 
+- 🥇 **Finalist at Smart India Hackathon 2024**
 - 🥇 **Winner at IILM University Hackathon**
 - 🌍 **Participated in Global Hackathons (Neuphony, IIT BHU)**
 - ⭐ **5-Star Ratings in Python and Java on HackerRank**
